@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/takeNote/static/css/main.29413af8.chunk.css",
+    "main.js": "/takeNote/static/js/main.b5613fdd.chunk.js",
+    "main.js.map": "/takeNote/static/js/main.b5613fdd.chunk.js.map",
+    "runtime-main.js": "/takeNote/static/js/runtime-main.e216a1b0.js",
+    "runtime-main.js.map": "/takeNote/static/js/runtime-main.e216a1b0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/takeNote/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7eb8219f.chunk.js": "/takeNote/static/js/2.7eb8219f.chunk.js",
+    "static/js/2.7eb8219f.chunk.js.map": "/takeNote/static/js/2.7eb8219f.chunk.js.map",
+    "static/js/3.1ce617d9.chunk.js": "/takeNote/static/js/3.1ce617d9.chunk.js",
+    "static/js/3.1ce617d9.chunk.js.map": "/takeNote/static/js/3.1ce617d9.chunk.js.map",
+    "index.html": "/takeNote/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/takeNote/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.29413af8.chunk.css.map": "/takeNote/static/css/main.29413af8.chunk.css.map",
+    "static/js/2.7eb8219f.chunk.js.LICENSE.txt": "/takeNote/static/js/2.7eb8219f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e216a1b0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7eb8219f.chunk.js",
+    "static/css/main.29413af8.chunk.css",
+    "static/js/main.b5613fdd.chunk.js"
+  ]
+}
